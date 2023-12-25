@@ -14,4 +14,4 @@ Provide instructions on how to compile and run the Java codes.
 
 ## Additional Information
 
-Include any other relevant information about the codes or the repository.
+This repository is meant for saving basics to advanced questions in java as a programming language.
